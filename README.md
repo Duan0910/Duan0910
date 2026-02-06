@@ -6,7 +6,7 @@ I love photography 📷, traveling ✈️, cooking and enjoying delicious food �
 
 And I love fruit very much. 🍎 🍓 🥭 🥝
 
-![Lilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilin90&show_icons=true&theme=tokyonight)
+[Lilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilin90&show_icons=true&theme=tokyonight)
 
 
 ### My side projects
